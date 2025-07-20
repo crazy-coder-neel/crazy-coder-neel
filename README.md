@@ -113,7 +113,7 @@
 ---
 
 <details>
-<h3><summary>🏆 View Achievements</summary></h3>
+<summary>🏆 View Achievements</summary>
 
 Here are some of the highlights of my academic and extracurricular journey:
 
