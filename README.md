@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Neelay Joshi</h1>
 <!-- Neon Typing Animation -->
 <!-- Neon Typing Animation -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&multiline=true&width=600&height=80&lines=🚀+AI%2FML+Developer;🤖+App+Developer;🧠+Open+Source+Contributor" alt="Typing SVG" />
-</h3>
+<h3 align="center">🚀 AI/ML Developer | 🤖 App Developer | 🧠 Open Source Contributor</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&multiline=true&width=600&height=80&lines=AI%2FML+Developer;App+Developer;Open+Source+Contributor" alt="Typing SVG" />
+</p>
+
 
 
 <!-- Dark-themed Typing GIF -->
@@ -15,16 +18,26 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshi-neelay7/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/NeelayJ/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-blue?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/crazy_neel)
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=flat&logo=instagram&logoColor=white)](https://instagram.com/better_call_neelay)
+<div align="center">
+  <a href="https://www.linkedin.com/in/joshi-neelay7/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/NeelayJ/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/crazy_neel">
+    <img src="https://img.shields.io/badge/Codeforces-blue?style=flat&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/better_call_neelay">
+    <img src="https://img.shields.io/badge/Instagram-red?style=flat&logo=instagram&logoColor=white" />
+  </a>
+</div>
 
 ---
 
 ## 🛠️ Languages and Tools
 
-### 💻 Programming Languages
+<p align="center">### 💻 Programming Languages</p>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
