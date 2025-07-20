@@ -5,8 +5,8 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding"/>
 </p>
 
-- 🔭 I’m currently working on **Competitive Programming, DSA, and Web Dev**
-- 🌱 I’m learning **React, Machine Learning, and System Design**
+- 🔭 I’m currently working on **Competitive Programming, DSA, AI/ML & App Dev**
+- 🌱 I’m learning **GenAI and System Design**
 - 👯 I’m looking to collaborate on **cool tech + coding projects**
 - 💬 Ask me about **DSA, Leetcode, Flask, APIs, or Life**
 - 📫 Reach me at: **bingostingo1@gmail.com**
