@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Neelay Joshi</h1>
-<h3 align="center">🚀 Full Stack Developer | 🤖 ML Enthusiast | 🧠 Open Source Contributor</h3>
+<!-- Neon Typing Animation -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&multiline=true&width=600&height=80&lines=🚀+AI+ML+Developer;🤖+App Developer+Developer;🧠+Open+Source+Contributor" alt="Typing SVG" />
+</h3>
 
+<!-- Dark-themed Typing GIF -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&lines=Neon+Developer+⚡;C%2FC%2B%2B+%7C+ML%2FAI+%7C+FullStack;Problem+Solver+%7C+LeetCoder+%7C+Explorer" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="720" height="405" alt="Person Typing GIF" style="box-shadow: 0 0 20px #39ff14; border-radius: 10px;"/>
 </p>
 
 ---
@@ -85,6 +89,48 @@
 
 ---
 
+<details>
+<summary>🏆 View Achievements</summary>
+
+Here are some of the highlights of my academic and extracurricular journey:
+
+1. 🥈 **Runner-Up** – CodeVerse 2.0 Hackathon  
+   *Vidyavardhini's Bhausaheb Vartak Polytechnic*
+
+2. 🥇 **Winner** – Synergy'25 Hackathon  
+   *M.H. Saboo Siddik Polytechnic*
+
+3. 🥈 **Runner-Up** – State Level Technical Quiz Competition  
+   *A.R. Kalsekar Polytechnic*
+
+4. 🥇 **Winner** – State Level Technical Quiz  
+   *St. John Polytechnic*
+
+5. 🥇 **Winner** – State Level Technical Paper Presentation  
+   *Government Polytechnic Thane*
+
+6. 🥈 **Runner-Up** – State Level Technical Paper Presentation  
+   *Vidyavardhini's Bhausaheb Vartak Polytechnic*
+
+7. 🥈 **Runner-Up** – State Level Technical Paper Presentation  
+   *St. John Polytechnic*
+
+8. ♟️ **Runner-Up** – Chess (Zonal Meet, IEDSSA)  
+   *Thakur Polytechnic*
+
+9. 👨‍💻 **Winner** – Blind Coding  
+   *Government Polytechnic Thane*
+
+10. 🧠 **Winner** – Brand Maniac  
+    *Vidyavardhini's College of Engineering and Technology*
+
+11. 🥈 **Runner-Up** – State Level Project Presentation Competition  
+    *Anantrao Pawar College Of Engineering & Research*
+
+</details>
+
+
+---
 ### 🐍 GitHub Contribution Snake:
 ![Snake animation](https://github.com/crazy-coder-neel/crazy-coder-neel/blob/output/github-contribution-grid-snake.svg)
 
