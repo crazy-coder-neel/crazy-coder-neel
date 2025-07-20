@@ -68,6 +68,5 @@
 ---
 
 ### 🐍 GitHub Contribution Snake:
-```bash
-# Optional, if you set up GitHub Actions using Platane/snk
-![Snake animation](https://github.com/NeelayJ/NeelayJ/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/crazy-coder-neel/crazy-coder-neel/blob/output/github-contribution-grid-snake.svg)
+
