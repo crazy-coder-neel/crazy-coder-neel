@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">A passionate Full Stack / ML / App Developer from India</h3>
 
-<!--
-**crazy-coder-neel/crazy-coder-neel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **XYZ**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **React, Flask, ML, etc**
+- 📫 How to reach me **youremail@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages and Tools:
+<p align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  ...
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical"/>
+</p>
+
+---
+
+### 📫 Let's Connect:
+<p>
+  <a href="https://linkedin.com/in/yourlink"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white"></a>
+</p>
