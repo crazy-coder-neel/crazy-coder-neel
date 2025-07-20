@@ -4,7 +4,11 @@
 <h3 align="center">🚀 AI/ML Developer | 🤖 App Developer | 🧠 Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&multiline=true&width=600&height=80&lines=AI%2FML+Developer;App+Developer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&multiline=true&width=600&height=80&lines=AI%2FML+Developer;Open+Source+Contributor" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=crazy-coder-neel&label=Profile+Views&color=39FF14&style=flat" alt="Profile Views" />
 </p>
 
 
@@ -16,7 +20,7 @@
 
 ---
 
-## 🌐 Connect With Me
+<h3 align="center">🌐 Connect With Me</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/joshi-neelay7/">
@@ -35,9 +39,9 @@
 
 ---
 
-## 🛠️ Languages and Tools
-
-<p align="center">### 💻 Programming Languages</p>
+<h3 align="center">🛠️ Languages and Tools</h3>
+ 
+<h3 align="center">💻 Programming Languages</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
@@ -51,7 +55,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
 </p>
 
-### ⚙️ Frameworks & Libraries
+<h3 align="center">⚙️ Frameworks & Libraries</h3>
+
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40"/>
@@ -64,7 +69,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
 </p>
 
-### 🗄️ Databases
+<h3 align="center">🗄️ Databases</h3>
+
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
@@ -72,7 +78,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
 </p>
 
-### 🚀 Tools & DevOps
+<h3 align="center">🚀 Tools & DevOps</h3>
+
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
@@ -84,7 +91,8 @@
 
 ---
 
-## 📊 GitHub Stats Dashboard
+<h3 align="center">📊 GitHub Stats Dashboard</h3>
+
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crazy-coder-neel&theme=github_dark" />
@@ -96,7 +104,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+<h3 align="center">🏆 GitHub Trophies</h3>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=crazy-coder-neel&theme=onedark&row=2&column=4" />
@@ -105,7 +113,7 @@
 ---
 
 <details>
-<summary>🏆 View Achievements</summary>
+<summary><h3>🏆 View Achievements</h3></summary>
 
 Here are some of the highlights of my academic and extracurricular journey:
 
