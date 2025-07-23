@@ -15,8 +15,8 @@
 <h2 align="center">📍 Quick Facts</h2>
 
 <ul align="left">
-  <li>👯 I’m looking to collaborate with people interested in <strong>coding</strong> and <strong>development</strong></li>
-  <li>💬 Ask me about <strong>Coding, AI/ML, Python, Hackathons</strong></li>
+  <li>👯 I’m looking to collaborate with people interested in <strong>Coding</strong> and <strong>Development</strong></li>
+  <li>💬 Ask me about <strong> AI/ML, CP, Development & other Tech Related stuffs</strong></li>
   <li>👨‍💻 <strong>Projects</strong> – All my projects are available <a href="https://github.com/">here</a></li>
   <li>📧 <strong>Email</strong> – <a href="mailto:neelayjoshico2@gmail.com">neelayjoshico2@gmail.com</a></li>
   <li>📃 <strong>Resume</strong> – <a href="https://drive.google.com/file/d/1C5Ya930cpL55ITCTFEJoV-8taesFoeDZ/view?usp=drive_link">Check Resume</a></li>
