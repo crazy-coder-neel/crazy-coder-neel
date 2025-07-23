@@ -1,47 +1,56 @@
 <h1 align="center">Hi 👋, I'm Neelay Joshi</h1>
-<!-- Neon Typing Animation -->
-<!-- Neon Typing Animation -->
+
 <h3 align="center">🚀 AI/ML Developer | 🤖 App Developer | 🧠 Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&multiline=true&width=600&height=80&lines=AI%2FML+Developer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&multiline=true&width=600&height=80&lines=AI%2FML+Developer;App+Developer;Open+Source+Contributor;Hackathon+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=crazy-coder-neel&label=Profile+Views&color=39FF14&style=flat" alt="Profile Views" />
 </p>
 
+---
 
+## 📍 Quick Facts
 
-<!-- Dark-themed Typing GIF -->
+- 👯 I’m looking to collaborate with people interested in **coding** and **development**
+- 💬 Ask me about **Coding, AI/ML, Python, Hackathons**
+- 👨‍💻 **Projects** – All my projects are available [here](https://github.com/)
+- 📧 **Email** – [neelayjoshico2@gmail.com](mailto:neelayjoshico2@gmail.com)
+- 📃 **Resume** – [Check Resume](https://drive.google.com/file/d/1C5Ya930cpL55ITCTFEJoV-8taesFoeDZ/view?usp=drive_link)
+- 🌐 **Portfolio** – *Under construction*
+
+---
+
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="720" height="405" alt="Person Typing GIF"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="720" height="405" alt="Typing GIF"/>
 </p>
 
 ---
 
-<h3 align="center">🌐 Connect With Me</h3>
+## 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/joshi-neelay7/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/NeelayJ/">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://codeforces.com/profile/crazy_neel">
-    <img src="https://img.shields.io/badge/Codeforces-blue?style=flat&logo=codeforces&logoColor=white" />
+    <img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
   <a href="https://instagram.com/better_call_neelay">
-    <img src="https://img.shields.io/badge/Instagram-red?style=flat&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</div>
+</p>
 
 ---
 
-<h3 align="center">🛠️ Languages and Tools</h3>
- 
-<h3 align="center">💻 Programming Languages</h3>
+## 🛠️ Languages & Tools
+
+### 💻 Programming Languages
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
@@ -55,8 +64,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
 </p>
 
-<h3 align="center">⚙️ Frameworks & Libraries</h3>
-
+### ⚙️ Frameworks & Libraries
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40"/>
@@ -69,8 +77,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
 </p>
 
-<h3 align="center">🗄️ Databases</h3>
-
+### 🗄️ Databases
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
@@ -78,8 +85,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
 </p>
 
-<h3 align="center">🚀 Tools & DevOps</h3>
-
+### 🚀 Tools & DevOps
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
@@ -91,26 +97,27 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats Dashboard</h3>
+## 📊 GitHub Stats Dashboard
 
-
-<div align="center">
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crazy-coder-neel&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crazy-coder-neel&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crazy-coder-neel&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=crazy-coder-neel&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=crazy-coder-neel&theme=github_dark&utcOffset=+5.5" />
-</div>
+</p>
 
 ---
 
-<h3 align="center">🏆 GitHub Trophies</h3>
+## 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=crazy-coder-neel&theme=onedark&row=2&column=4" />
-</div>
+</p>
 
 ---
+
+## 🥇 Achievements
 
 <details>
 <summary>🏆 View Achievements</summary>
@@ -118,43 +125,31 @@
 Here are some of the highlights of my academic and extracurricular journey:
 
 1. 🥈 **Runner-Up** – CodeVerse 2.0 Hackathon  
-   *Vidyavardhini's Bhausaheb Vartak Polytechnic*
-
 2. 🥇 **Winner** – Synergy'25 Hackathon  
-   *M.H. Saboo Siddik Polytechnic*
-
 3. 🥈 **Runner-Up** – State Level Technical Quiz Competition  
-   *A.R. Kalsekar Polytechnic*
-
 4. 🥇 **Winner** – State Level Technical Quiz  
-   *St. John Polytechnic*
-
 5. 🥇 **Winner** – State Level Technical Paper Presentation  
-   *Government Polytechnic Thane*
-
 6. 🥈 **Runner-Up** – State Level Technical Paper Presentation  
-   *Vidyavardhini's Bhausaheb Vartak Polytechnic*
-
 7. 🥈 **Runner-Up** – State Level Technical Paper Presentation  
-   *St. John Polytechnic*
-
 8. ♟️ **Runner-Up** – Chess (Zonal Meet, IEDSSA)  
-   *Thakur Polytechnic*
-
 9. 👨‍💻 **Winner** – Blind Coding  
-   *Government Polytechnic Thane*
-
 10. 🧠 **Winner** – Brand Maniac  
-    *Vidyavardhini's College of Engineering and Technology*
-
 11. 🥈 **Runner-Up** – State Level Project Presentation Competition  
-    *Anantrao Pawar College Of Engineering & Research*
 
 </details>
 
+---
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/crazy-coder-neel/crazy-coder-neel/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
 
 ---
-### 🐍 GitHub Contribution Snake:
-![Snake animation](https://github.com/crazy-coder-neel/crazy-coder-neel/blob/output/github-contribution-grid-snake.svg)
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff&animation=twinkling"/>
+  <br/>
+  <sub>Made with ❤ by Neelay Joshi</sub>
+</p>
