@@ -12,14 +12,16 @@
 
 ---
 
-## 📍 Quick Facts
+<h2 align="center">📍 Quick Facts</h2>
 
-- 👯 I’m looking to collaborate with people interested in **coding** and **development**
-- 💬 Ask me about **Coding, AI/ML, Python, Hackathons**
-- 👨‍💻 **Projects** – All my projects are available [here](https://github.com/)
-- 📧 **Email** – [neelayjoshico2@gmail.com](mailto:neelayjoshico2@gmail.com)
-- 📃 **Resume** – [Check Resume](https://drive.google.com/file/d/1C5Ya930cpL55ITCTFEJoV-8taesFoeDZ/view?usp=drive_link)
-- 🌐 **Portfolio** – *Under construction*
+<ul align="center">
+  <li>👯 I’m looking to collaborate with people interested in <strong>coding</strong> and <strong>development</strong></li>
+  <li>💬 Ask me about <strong>Coding, AI/ML, Python, Hackathons</strong></li>
+  <li>👨‍💻 <strong>Projects</strong> – All my projects are available <a href="https://github.com/">here</a></li>
+  <li>📧 <strong>Email</strong> – <a href="mailto:neelayjoshico2@gmail.com">neelayjoshico2@gmail.com</a></li>
+  <li>📃 <strong>Resume</strong> – <a href="https://drive.google.com/file/d/1C5Ya930cpL55ITCTFEJoV-8taesFoeDZ/view?usp=drive_link">Check Resume</a></li>
+  <li>🌐 <strong>Portfolio</strong> – Under construction</li>
+</ul>
 
 ---
 
@@ -29,7 +31,7 @@
 
 ---
 
-## 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joshi-neelay7/">
@@ -48,10 +50,9 @@
 
 ---
 
-## 🛠️ Languages & Tools
+<h2 align="center">🛠️ Languages & Tools</h2>
 
-### 💻 Programming Languages
-
+<h3 align="center">💻 Programming Languages</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
@@ -64,8 +65,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
 </p>
 
-### ⚙️ Frameworks & Libraries
-
+<h3 align="center">⚙️ Frameworks & Libraries</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
@@ -77,16 +77,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
 </p>
 
-### 🗄️ Databases
-
+<h3 align="center">🗄️ Databases</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
 </p>
 
-### 🚀 Tools & DevOps
-
+<h3 align="center">🚀 Tools & DevOps</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
@@ -97,8 +95,7 @@
 
 ---
 
-## 📊 GitHub Stats Dashboard
-
+<h2 align="center">📊 GitHub Stats Dashboard</h2>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crazy-coder-neel&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crazy-coder-neel&theme=github_dark" />
@@ -109,39 +106,35 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
+<h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=crazy-coder-neel&theme=onedark&row=2&column=4" />
 </p>
 
 ---
 
-## 🥇 Achievements
-
+<h2 align="center">🥇 Achievements</h2>
 <details>
-<summary>🏆 View Achievements</summary>
+<summary align="center">🏆 View Achievements</summary>
 
-Here are some of the highlights of my academic and extracurricular journey:
-
-1. 🥈 **Runner-Up** – CodeVerse 2.0 Hackathon  
-2. 🥇 **Winner** – Synergy'25 Hackathon  
-3. 🥈 **Runner-Up** – State Level Technical Quiz Competition  
-4. 🥇 **Winner** – State Level Technical Quiz  
-5. 🥇 **Winner** – State Level Technical Paper Presentation  
-6. 🥈 **Runner-Up** – State Level Technical Paper Presentation  
-7. 🥈 **Runner-Up** – State Level Technical Paper Presentation  
-8. ♟️ **Runner-Up** – Chess (Zonal Meet, IEDSSA)  
-9. 👨‍💻 **Winner** – Blind Coding  
-10. 🧠 **Winner** – Brand Maniac  
-11. 🥈 **Runner-Up** – State Level Project Presentation Competition  
+<ul>
+  <li>🥈 <strong>Runner-Up</strong> – CodeVerse 2.0 Hackathon</li>
+  <li>🥇 <strong>Winner</strong> – Synergy'25 Hackathon</li>
+  <li>🥈 <strong>Runner-Up</strong> – State Level Technical Quiz Competition</li>
+  <li>🥇 <strong>Winner</strong> – State Level Technical Quiz</li>
+  <li>🥇 <strong>Winner</strong> – State Level Technical Paper Presentation</li>
+  <li>🥈 <strong>Runner-Up</strong> – State Level Technical Paper Presentation (x2)</li>
+  <li>♟️ <strong>Runner-Up</strong> – Chess (Zonal Meet, IEDSSA)</li>
+  <li>👨‍💻 <strong>Winner</strong> – Blind Coding</li>
+  <li>🧠 <strong>Winner</strong> – Brand Maniac</li>
+  <li>🥈 <strong>Runner-Up</strong> – State Level Project Presentation Competition</li>
+</ul>
 
 </details>
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
+<h2 align="center">🐍 GitHub Contribution Snake</h2>
 <p align="center">
   <img src="https://github.com/crazy-coder-neel/crazy-coder-neel/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
@@ -151,5 +144,5 @@ Here are some of the highlights of my academic and extracurricular journey:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff&animation=twinkling"/>
   <br/>
-  <sub>Made with ❤ by Neelay Joshi</sub>
+  <span style="font-size:18px"><strong>✨ Made with ❤ by Neelay Joshi ✨</strong></span>
 </p>
