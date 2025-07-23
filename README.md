@@ -3,7 +3,7 @@
 <h3 align="center">🚀 AI/ML Developer | 🤖 App Developer | 🧠 Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&multiline=true&width=600&height=80&lines=AI%2FML+Developer;App+Developer;Open+Source+Contributor;Hackathon+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&multiline=true&width=600&height=80&lines=AI%2FML+Developer;App+Developer;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <p align="center">
