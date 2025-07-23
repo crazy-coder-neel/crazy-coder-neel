@@ -3,7 +3,7 @@
 <h3 align="center">🚀 AI/ML Developer | 🤖 App Developer | 🧠 Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&multiline=true&width=600&height=80&lines=AI%2FML+Developer;App+Developer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&multiline=true&width=600&height=80&lines=AI%2FML+Developer;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 <h2 align="center">📍 Quick Facts</h2>
 
-<ul align="center">
+<ul align="left">
   <li>👯 I’m looking to collaborate with people interested in <strong>coding</strong> and <strong>development</strong></li>
   <li>💬 Ask me about <strong>Coding, AI/ML, Python, Hackathons</strong></li>
   <li>👨‍💻 <strong>Projects</strong> – All my projects are available <a href="https://github.com/">here</a></li>
