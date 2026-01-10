@@ -19,7 +19,7 @@
   <li>💬 Ask me about <strong> AI/ML, CP, Development & other Tech Related stuffs</strong></li>
   <li>👨‍💻 <strong>Projects</strong> – All my projects are available <a href="https://github.com/">here</a></li>
   <li>📧 <strong>Email</strong> – <a href="mailto:neelayjoshico2@gmail.com">neelayjoshico2@gmail.com</a></li>
-  <li>📃 <strong>Resume</strong> – <a href="https://drive.google.com/file/d/16JexUgAoizllxVhej-_2HFZdQ2WXlfPp/view?usp=sharing">Check Resume</a></li>
+  <li>📃 <strong>Resume</strong> – <a href="https://drive.google.com/file/d/14fA1csNcBRii6O2cjyJoHs7xvqq2otom/view?usp=sharing">Check Resume</a></li>
   <li>🌐 <strong>Portfolio</strong> – Under construction</li>
 </ul>
 
