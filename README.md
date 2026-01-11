@@ -13,14 +13,28 @@
 
 <h2 align="center">📍 Quick Facts</h2>
 
-<ul>
-  <li>👯 Looking to collaborate with people interested in <b>Coding</b> and <b>Development</b></li>
-  <li>💬 Ask me about <b>AI/ML, CP, Development & Tech</b></li>
-  <li>👨‍💻 <b>Projects</b> – <a href="https://github.com/">View here</a></li>
-  <li>📧 <b>Email</b> – <a href="mailto:neelayjoshico2@gmail.com">neelayjoshico2@gmail.com</a></li>
-  <li>📃 <b>Resume</b> – <a href="https://drive.google.com/file/d/14fA1csNcBRii6O2cjyJoHs7xvqq2otom/view?usp=sharing">Check Resume</a></li>
-  <li>🌐 <b>Portfolio</b> – Under construction</li>
+<ul align="left">
+  <li>👯 I’m looking to collaborate with people interested in <strong>Coding</strong> and <strong>Development</strong></li>
+  <li>💬 Ask me about <strong>AI/ML, CP, Development & other Tech Related stuffs</strong></li>
+  <li>👨‍💻 <strong>Projects</strong> – All my projects are available <a href="https://github.com/">here</a></li>
+  <li>📧 <strong>Email</strong> – <a href="mailto:neelayjoshico2@gmail.com">neelayjoshico2@gmail.com</a></li>
+  <li>📃 <strong>Resume</strong> – <a href="https://drive.google.com/file/d/14fA1csNcBRii6O2cjyJoHs7xvqq2otom/view?usp=sharing">Check Resume</a></li>
+  <li>🌐 <strong>Portfolio</strong> – Under construction</li>
 </ul>
+
+---
+
+<h2 align="center">🏅 Holopin Badges</h2>
+
+<p align="center">
+  <a href="https://holopin.io/@crazy_coder_neel" target="_blank">
+    <img
+      src="https://holopin.me/crazy_coder_neel"
+      alt="Holopin Badges"
+      width="720"
+    />
+  </a>
+</p>
 
 ---
 
@@ -28,16 +42,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joshi-neelay7/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/NeelayJ/">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://codeforces.com/profile/crazy_neel">
-    <img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
   <a href="https://instagram.com/better_call_neelay">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -81,40 +95,63 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" height="28"/>
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats Dashboard</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crazy-coder-neel&show_icons=true&theme=github_dark&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crazy-coder-neel&theme=github-dark&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crazy-coder-neel&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crazy-coder-neel&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crazy-coder-neel&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=crazy-coder-neel&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=crazy-coder-neel&theme=github_dark&utcOffset=+5.5" />
 </p>
 
 ---
 
-<h2 align="center">🏅 Holopin Badges</h2>
+<h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <a href="https://holopin.io/@crazy_coder_neel" target="_blank">
-    <img src="https://holopin.me/crazy_coder_neel" width="720" alt="Holopin Badges"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=crazy-coder-neel&theme=onedark&row=2&column=4" />
 </p>
+
+---
+
+<h2 align="center">🥇 Achievements</h2>
+
+<details>
+  <summary align="center">🏆 View Achievements</summary>
+  <ul>
+    <li>🥈 <strong>Runner-Up</strong> – CodeVerse 2.0 Hackathon</li>
+    <li>🥇 <strong>Winner</strong> – Synergy'25 Hackathon</li>
+    <li>🥈 <strong>Runner-Up</strong> – State Level Technical Quiz Competition</li>
+    <li>🥇 <strong>Winner</strong> – State Level Technical Quiz</li>
+    <li>🥇 <strong>Winner</strong> – State Level Technical Paper Presentation</li>
+    <li>🥈 <strong>Runner-Up</strong> – State Level Technical Paper Presentation (x2)</li>
+    <li>♟️ <strong>Runner-Up</strong> – Chess (Zonal Meet, IEDSSA)</li>
+    <li>👨‍💻 <strong>Winner</strong> – Blind Coding</li>
+    <li>🧠 <strong>Winner</strong> – Brand Maniac</li>
+    <li>🥈 <strong>Runner-Up</strong> – State Level Project Presentation Competition</li>
+  </ul>
+</details>
 
 ---
 
 <h2 align="center">🐍 GitHub Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://github.com/crazy-coder-neel/crazy-coder-neel/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github.com/crazy-coder-neel/crazy-coder-neel/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff&animation=twinkling"/>
   <br/>
-  <b>✨ Made with ❤ by Neelay Joshi ✨</b>
+  <strong>✨ Made with ❤ by Neelay Joshi ✨</strong>
 </p>
