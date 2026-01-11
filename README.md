@@ -27,14 +27,15 @@
 <h2 align="center">🏅 Holopin Badges</h2>
 
 <p align="center">
-  <a href="https://holopin.io/@crazy_coder_neel" target="_blank">
+  <a href="https://www.holopin.io/@crazycoderneel" target="_blank">
     <img
-      src="https://holopin.me/crazy_coder_neel"
+      src="https://holopin.me/crazycoderneel"
       alt="Holopin Badges"
       width="720"
     />
   </a>
 </p>
+
 
 ---
 
