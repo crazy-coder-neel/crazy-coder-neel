@@ -116,11 +116,19 @@
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center">📊 GitHub Highlights</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=crazy-coder-neel&theme=onedark&no-frame=true&margin-w=15&margin-h=15" />
+  <img src="https://github-readme-stats.vercel.app/api?username=crazy-coder-neel&show_icons=true&theme=onedark&hide_border=true" />
 </p>
+
+
+
+<!-- <h2 align="center">🏆 GitHub Trophies</h2> -->
+
+<!-- <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=crazy-coder-neel&theme=onedark&no-frame=true&margin-w=15&margin-h=15" />
+</p> -->
 
 ---
 
