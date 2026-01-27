@@ -11,7 +11,7 @@
 
 ---
 
-<h2 align="center">📍 Quick Facts</h2>
+<h2 align="center">📍 Quick Facts.</h2>
 
 <ul align="left">
   <li>👯 I’m looking to collaborate with people interested in <strong>Coding</strong> and <strong>Development</strong></li>
